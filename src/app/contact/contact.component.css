@@ -1,0 +1,17 @@
+.container {
+  background-color: black;
+  width: auto;
+  height: auto;
+  align-items: center;
+  margin-left: 3em;
+  margin-top: 3em;
+}
+
+.text1 {
+  color: white;
+}
+
+.text2 {
+  color: white;
+
+}
