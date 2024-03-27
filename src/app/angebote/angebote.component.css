@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  align-items: stretch;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.text {
+  color: white;
+  text-align: left;
+  margin-left: 1em;
+  margin-top: 1em;
+  margin-right: 1em;
+  line-height: 150%;
+}
+
+.image {
+  max-width: 40%;
+}
+
+.left-div {
+  margin-top: 4em;
+  margin-left: 3em;
+  max-width: 80%;
+}
+
+.right-div {
+  max-width: 40%;
+  margin-top: 6em;
+}
